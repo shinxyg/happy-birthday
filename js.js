@@ -6,7 +6,7 @@
             const candle = document.getElementById('candle');
             const typewriterElement = document.getElementById('typewriter-text');
 
-            const myMessage = "Happy Birthday! 🎂 Sobrang thankful ako na naging part ka ng buhay ko. Sana magustuhan mo itong simpleng surprise na ginawa ko para sa'yo. Deserve mo sumaya na ngayong araw! u can blow the candle mich iloveeeeeeyouuuuuuu!";
+            const myMessage = "Happy Birthday! 🎂 Sobrang thankful ako na naging part ka ng buhay ko. Sana magustuhan mo itong simpleng surprise na ginawa ko para sa'yo. Deserve mo sumaya na ngayong araw! u can blow the candleee mich iloveeeeeeyouuuuuuu!";
 
             let charIndex = 0;
             let typingStarted = false;
